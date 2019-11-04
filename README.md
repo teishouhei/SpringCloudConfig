@@ -1,2 +1,0 @@
-# SpringCloudConfig
-aaaaa
